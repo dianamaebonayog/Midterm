@@ -1,0 +1,8 @@
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMae.Midterm\BonayogDianaMae.Midterm\obj\Debug\net6.0\BonayogDianaMae.Midterm.csproj.AssemblyReference.cache
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMae.Midterm\BonayogDianaMae.Midterm\obj\Debug\net6.0\BonayogDianaMae.Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMae.Midterm\BonayogDianaMae.Midterm\obj\Debug\net6.0\BonayogDianaMae.Midterm.AssemblyInfoInputs.cache
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMae.Midterm\BonayogDianaMae.Midterm\obj\Debug\net6.0\BonayogDianaMae.Midterm.AssemblyInfo.cs
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMae.Midterm\BonayogDianaMae.Midterm\obj\Debug\net6.0\BonayogDianaMae.Midterm.csproj.CoreCompileInputs.cache
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMae.Midterm\BonayogDianaMae.Midterm\obj\Debug\net6.0\BonayogDianaMae.Midterm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMae.Midterm\BonayogDianaMae.Midterm\obj\Debug\net6.0\BonayogDianaMae.Midterm.RazorAssemblyInfo.cache
+C:\Users\VGD pc 2\Desktop\diana\BonayogDianaMae.Midterm\BonayogDianaMae.Midterm\obj\Debug\net6.0\BonayogDianaMae.Midterm.RazorAssemblyInfo.cs
